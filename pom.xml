@@ -127,77 +127,76 @@
     </dependency>
     
     <dependency>
-      <groupId>org.apache.parquet</groupId>
-      <artifactId>parquet-format-structures</artifactId>
-      <version>1.11.2</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.nifi</groupId>
-      <artifactId>nifi-standard-processors</artifactId>
-      <version>1.15.1</version>
-    </dependency>
-    
-    <dependency>
-      <groupId>org.opencastproject</groupId>
-      <artifactId>opencast-security-aai</artifactId>
-      <version>9.10</version>
-    </dependency>
-    
-   
-    <dependency>
-      <groupId>org.opencastproject</groupId>
-      <artifactId>opencast-ingest-service-impl</artifactId>
-      <version>10.6</version>
-    </dependency>
-    
-    <dependency>
       <groupId>org.apache.sling</groupId>
       <artifactId>org.apache.sling.commons.messaging.mail</artifactId>
       <version>1.0.0</version>
     </dependency>
     
     <dependency>
-      <groupId>org.opencastproject</groupId>
-      <artifactId>opencast-ingest-service-impl</artifactId>
-      <version>10.6</version>
+      <groupId>org.apache.solr</groupId>
+      <artifactId>solr-core</artifactId>
+      <version>0</version>
     </dependency>
     
     <dependency>
-      <groupId>com.twelvemonkeys.imageio</groupId>
-      <artifactId>imageio-metadata</artifactId>
-      <version>3.7.1</version>
+      <groupId>org.apache.parquet</groupId>
+      <artifactId>parquet-format-structures</artifactId>
+      <version>1.12.0</version>
     </dependency>
     
     <dependency>
-      <groupId>org.apereo.cas</groupId>
-      <artifactId>cas-server-support-saml-idp-web</artifactId>
-      <version>6.4.0</version>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-standard-processors</artifactId>
+      <version>0</version>
     </dependency>
     
     <dependency>
-      <groupId>org.apereo.cas</groupId>
-      <artifactId>cas-server-support-rest-core</artifactId>
-      <version>6.4.0</version>
+      <groupId>org.apache.logging.log4j</groupId>
+      <artifactId>log4j-core</artifactId>
+      <version>2.4</version>
     </dependency>
     
     <dependency>
-      <groupId>org.apereo.cas</groupId>
-      <artifactId>cas-server-support-oidc-core-api</artifactId>
-      <version>6.4.0</version>
+      <groupId>org.apache.pig</groupId>
+      <artifactId>pig</artifactId>
+      <version>0</version>
     </dependency>
     
     <dependency>
-      <groupId>org.apereo.cas</groupId>
-      <artifactId>cas-server-support-oauth-uma-core</artifactId>
-      <version>6.4.0</version>
+      <groupId>org.apache.ignite</groupId>
+      <artifactId>ignite-core</artifactId>
+      <version>0</version>
     </dependency>
     
     <dependency>
-      <groupId>org.apereo.cas</groupId>
-      <artifactId>cas-server-core-services</artifactId>
-      <version>6.4.0</version>
+      <groupId>org.apache.jspwiki</groupId>
+      <artifactId>jspwiki-builder</artifactId>
+      <version>0</version>
     </dependency>
     
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-ozone-ozone-manager</artifactId>
+      <version>0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-hdds-server-scm</artifactId>
+      <version>0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-hdds-container-service</artifactId>
+      <version>0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-hdds-common</artifactId>
+      <version>0</version>
+    </dependency>
   </dependencies>
 
   <build>
