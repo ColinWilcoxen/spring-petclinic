@@ -125,6 +125,34 @@
       <artifactId>log4j</artifactId>
       <version>1.2.17</version>
     </dependency>
+    
+    <dependency>
+      <groupId>org.apache.parquet</groupId>
+      <artifactId>parquet-format-structures</artifactId>
+      <version>1.11.2</version>
+    </dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>parse-link-header</artifactId>
+      <version>0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-standard-processors</artifactId>
+      <version>1.15.1</version>
+    </dependency>
+    <dependency>
+      <groupId>io.atomix</groupId>
+      <artifactId>atomix-cluster</artifactId>
+      <version>0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.craftercms</groupId>
+      <artifactId>crafter-search</artifactId>
+      <version>3.1.15</version>
+    </dependency>
+    
+    
   </dependencies>
 
   <build>
@@ -157,31 +185,6 @@
             <artifactId>nohttp-checkstyle</artifactId>
             <version>${nohttp-checkstyle.version}</version>
           </dependency>
-          <dependency>
-      <groupId>org.apache.parquet</groupId>
-      <artifactId>parquet-format-structures</artifactId>
-      <version>1.11.2</version>
-    </dependency>
-    <dependency>
-      <groupId>org.webjars.npm</groupId>
-      <artifactId>parse-link-header</artifactId>
-      <version>0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.apache.nifi</groupId>
-      <artifactId>nifi-standard-processors</artifactId>
-      <version>1.15.1</version>
-    </dependency>
-    <dependency>
-      <groupId>io.atomix</groupId>
-      <artifactId>atomix-cluster</artifactId>
-      <version>0</version>
-    </dependency>
-    <dependency>
-      <groupId>org.craftercms</groupId>
-      <artifactId>crafter-search</artifactId>
-      <version>3.1.15</version>
-    </dependency>
         </dependencies>
         <executions>
           <execution>
