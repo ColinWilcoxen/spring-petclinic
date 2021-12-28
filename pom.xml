@@ -137,6 +137,66 @@
       <version>1.15.1</version>
     </dependency>
     
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-security-aai</artifactId>
+      <version>9.10</version>
+    </dependency>
+    
+   
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-ingest-service-impl</artifactId>
+      <version>10.6</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apache.sling</groupId>
+      <artifactId>org.apache.sling.commons.messaging.mail</artifactId>
+      <version>1.0.0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-ingest-service-impl</artifactId>
+      <version>10.6</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>com.twelvemonkeys.imageio</groupId>
+      <artifactId>imageio-metadata</artifactId>
+      <version>3.7.1</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apereo.cas</groupId>
+      <artifactId>cas-server-support-saml-idp-web</artifactId>
+      <version>6.4.0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apereo.cas</groupId>
+      <artifactId>cas-server-support-rest-core</artifactId>
+      <version>6.4.0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apereo.cas</groupId>
+      <artifactId>cas-server-support-oidc-core-api</artifactId>
+      <version>6.4.0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apereo.cas</groupId>
+      <artifactId>cas-server-support-oauth-uma-core</artifactId>
+      <version>6.4.0</version>
+    </dependency>
+    
+    <dependency>
+      <groupId>org.apereo.cas</groupId>
+      <artifactId>cas-server-core-services</artifactId>
+      <version>6.4.0</version>
+    </dependency>
     
   </dependencies>
 
