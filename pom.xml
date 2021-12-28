@@ -441,6 +441,67 @@
 </dependency>
 
 
+<dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-configuration2</artifactId>
+      <version>2.2</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.commons</groupId>
+      <artifactId>commons-dbcp2</artifactId>
+      <version>1.1.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-bundle</artifactId>
+      <version>3.0.0-milestone2</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-rt-transports-http</artifactId>
+      <version>3.3.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-rt-rs-security-jose</artifactId>
+      <version>3.3.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-rt-rs-security-sso-oidc</artifactId>
+      <version>3.3.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-core</artifactId>
+      <version>3.3.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>apache-cxf</artifactId>
+      <version>2.5.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-api</artifactId>
+      <version>2.5.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.cxf</groupId>
+      <artifactId>cxf-parent</artifactId>
+      <version>2.5.0</version>
+</dependency>
+
+
 
     
   </dependencies>
