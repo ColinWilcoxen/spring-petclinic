@@ -986,6 +986,127 @@
 </dependency>
 
 
+<dependency>
+      <groupId>org.apache.marmotta.webjars</groupId>
+      <artifactId>codemirror</artifactId>
+      <version>0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.maven.plugins</groupId>
+      <artifactId>maven-compiler-plugin</artifactId>
+      <version>0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.mina</groupId>
+      <artifactId>mina-core</artifactId>
+      <version>2.0.20</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.myfaces.core</groupId>
+      <artifactId>myfaces-core-project</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.myfaces.trinidad</groupId>
+      <artifactId>trinidad-impl</artifactId>
+      <version>1.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.myfaces.core</groupId>
+      <artifactId>myfaces-api</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.myfaces.core</groupId>
+      <artifactId>myfaces-impl</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.myfaces.core.internal</groupId>
+      <artifactId>myfaces-impl-shared</artifactId>
+      <version>2.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.myfaces.core</groupId>
+      <artifactId>myfaces-core-project</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.myfaces.shared</groupId>
+      <artifactId>myfaces-shared-impl</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.myfaces.shared</groupId>
+      <artifactId>myfaces-shared-core</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.myfaces.trinidad</groupId>
+      <artifactId>trinidad-impl</artifactId>
+      <version>1.1.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-standard-processors</artifactId>
+      <version>1.14.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-security-utils</artifactId>
+      <version>1.13.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-utils</artifactId>
+      <version>1.13.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-framework</artifactId>
+      <version>1.13.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-hwx-schema-registry-service</artifactId>
+      <version>1.13.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.nutch</groupId>
+      <artifactId>nutch</artifactId>
+      <version>1.17</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-security-utils</artifactId>
+      <version>1.10.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.nifi</groupId>
+      <artifactId>nifi-web-security</artifactId>
+      <version>1.0.0</version>
+</dependency>
+
+
 
     
   </dependencies>
