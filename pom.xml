@@ -909,7 +909,7 @@
 
 <dependency>
       <groupId>org.apache.kafka</groupId>
-      <artifactIdkafka_2.11</artifactId>
+      <artifactId>kafka_2.11</artifactId>
       <version>0.11.0.0</version>
 </dependency>
 
