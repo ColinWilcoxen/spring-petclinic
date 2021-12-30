@@ -1591,6 +1591,127 @@
 </dependency>
 
 
+<dependency>
+      <groupId>org.apache.unomi</groupId>
+      <artifactId>unomi-persistence-elasticsearch-core</artifactId>
+      <version>1.5.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.unomi</groupId>
+      <artifactId>unomi-services</artifactId>
+      <version>1.5.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.unomi</groupId>
+      <artifactId>unomi-common</artifactId>
+      <version>1.5.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.unomi</groupId>
+      <artifactId>unomi-kar</artifactId>
+      <version>1.5.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>uima-ducc-web</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>uimafit</artifactId>
+      <version>2.3.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>uima-ducc-web</artifactId>
+      <version>2.2.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>uima-as</artifactId>
+      <version>2.10.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>uimaj-core</artifactId>
+      <version>2.10.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>uimaj-adapter-vinci</artifactId>
+      <version>2.10.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>jvinci</artifactId>
+      <version>2.10.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>uimaj-ep-cas-editor</artifactId>
+      <version>2.10.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>uimaj-examples</artifactId>
+      <version>2.10.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.uima</groupId>
+      <artifactId>uimaj-tools</artifactId>
+      <version>2.10.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.velocity</groupId>
+      <artifactId>velocity-engine-core</artifactId>
+      <version>2.2</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.velocity.tools</groupId>
+      <artifactId>velocity-tools-view</artifactId>
+      <version>2.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.wicket</groupId>
+      <artifactId>wicket-core</artifactId>
+      <version>9.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.wicket</groupId>
+      <artifactId>wicket-core</artifactId>
+      <version>7.16.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.wicket</groupId>
+      <artifactId>wicket-util</artifactId>
+      <version>1.5.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.wss4j</groupId>
+      <artifactId>wss4j-ws-security-dom</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+
     
   </dependencies>
 
