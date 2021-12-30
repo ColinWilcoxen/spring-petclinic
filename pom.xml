@@ -1712,6 +1712,127 @@
 </dependency>
 
 
+<dependency>
+      <groupId>org.apache.wss4j</groupId>
+      <artifactId>wss4j</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.ws.security</groupId>
+      <artifactId>wss4j</artifactId>
+      <version>1.6.15</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.wicket</groupId>
+      <artifactId>wicket-extensions</artifactId>
+      <version>1.5.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.wink</groupId>
+      <artifactId>wink-assembly-aggregatejar-osgi</artifactId>
+      <version>0.1-incubating</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.wink</groupId>
+      <artifactId>wink-server</artifactId>
+      <version>0.1-incubating</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.wicket</groupId>
+      <artifactId>wicket-util</artifactId>
+      <version>1.5.12</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.wss4j</groupId>
+      <artifactId>wss4j-ws-security-dom</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.xmlgraphics</groupId>
+      <artifactId>xmlgraphics-commons</artifactId>
+      <version>2.5</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.xmlgraphics</groupId>
+      <artifactId>batik-svgbrowser</artifactId>
+      <version>1.13</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.xmlbeans</groupId>
+      <artifactId>xmlbeans</artifactId>
+      <version>2.0.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.xmlgraphics</groupId>
+      <artifactId>batik-transcoder</artifactId>
+      <version>1.12</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.xmlgraphics</groupId>
+      <artifactId>batik-svgrasterizer</artifactId>
+      <version>1.12</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.xmlrpc</groupId>
+      <artifactId>xmlrpc-client</artifactId>
+      <version>3.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.xmlrpc</groupId>
+      <artifactId>xmlrpc</artifactId>
+      <version>3.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.xmlgraphics</groupId>
+      <artifactId>batik-dom</artifactId>
+      <version>1.9</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.xmlgraphics</groupId>
+      <artifactId>fop</artifactId>
+      <version>2.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.zeppelin</groupId>
+      <artifactId>zeppelin</artifactId>
+      <version>0.9.0</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.zeppelin</groupId>
+      <artifactId>zeppelin-web</artifactId>
+      <version>0.8.1</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.zookeeper</groupId>
+      <artifactId>zookeeper</artifactId>
+      <version>3.4.13</version>
+</dependency>
+
+<dependency>
+      <groupId>org.apache.zeppelin</groupId>
+      <artifactId>zeppelin-server</artifactId>
+      <version>0.7.2</version>
+</dependency>
+
+
     
   </dependencies>
 
