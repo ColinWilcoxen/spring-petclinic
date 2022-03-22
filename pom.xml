@@ -1133,24 +1133,6 @@
 
 <dependency>
       <groupId>org.apache.nifi</groupId>
-      <artifactId>nifi-framework-bundle</artifactId>
-      <version>1.11.0</version>
-</dependency>
-
-<dependency>
-      <groupId>org.apache.nifi</groupId>
-      <artifactId>nifi-web-security</artifactId>
-      <version>1.11.0</version>
-</dependency>
-
-<dependency>
-      <groupId>org.apache.nifi</groupId>
-      <artifactId>nifi-framework</artifactId>
-      <version>1.11.0</version>
-</dependency>
-
-<dependency>
-      <groupId>org.apache.nifi</groupId>
       <artifactId>nifi-framework-core</artifactId>
       <version>1.11.0</version>
 </dependency>
