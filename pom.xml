@@ -2673,9 +2673,260 @@
       <version>2.5</version>
 </dependency>
     <dependency>
-      <groupId>org.matrix.android:matrix-android-sdk2</groupId>
+      <groupId>org.matrix.android</groupId>
       <artifactId>matrix-android-sdk2</artifactId>
       <version>1.2.1</version>
+</dependency>
+    
+    <dependency>
+      <groupId>pl.droidsonroids.gif</groupId>
+      <artifactId>android-gif-drawable</artifactId>
+      <version>1.2.23</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.goxr3plus</groupId>
+      <artifactId>xr3player</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.google.android.gms</groupId>
+      <artifactId>play-services-basement</artifactId>
+      <version>18.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.google.android.play</groupId>
+      <artifactId>core</artifactId>
+      <version>1.7.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.typesafe.play</groupId>
+      <artifactId>play</artifactId>
+      <version>2.6.12</version>
+</dependency>
+    <dependency>
+      <groupId>com.typesafe.play</groupId>
+      <artifactId>play_2.10</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.typesafe.play</groupId>
+      <artifactId>play_2.11</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.typesafe.play</groupId>
+      <artifactId>play_2.12</artifactId>
+      <version>2.8.3</version>
+</dependency>
+    <dependency>
+      <groupId>com.typesafe.play</groupId>
+      <artifactId>play_2.13</artifactId>
+      <version>2.8.3</version>
+</dependency>
+    <dependency>
+      <groupId>com.typesafe.play</groupId>
+      <artifactId>play-java</artifactId>
+      <version>2.6.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.airsonic.player</groupId>
+      <artifactId>airsonic-main</artifactId>
+      <version>10.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>google-play-android-publisher</artifactId>
+      <version>1.6</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>jenkinswalldisplay</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>graphql-playground-html</artifactId>
+      <version>1.6.28</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>graphql-playground-react</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>shaka-player</artifactId>
+      <version>2.3.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>valgrind</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.ojalgo</groupId>
+      <artifactId>ojalgo</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>ca.uhn.hapi.fhir</groupId>
+      <artifactId>hapi-fhir-jpaserver-api</artifactId>
+      <version>5.3.0</version>
+</dependency>
+    <dependency>
+      <groupId>cc.blynk.server.api.core</groupId>
+      <artifactId>http-core</artifactId>
+      <version>0.39.6</version>
+</dependency>
+    <dependency>
+      <groupId>com.hotels.styx</groupId>
+      <artifactId>styx-server</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.server.admin.web</artifactId>
+      <version>3.0.21</version>
+</dependency>
+    <dependency>
+      <groupId>com.linecorp.centraldogma</groupId>
+      <artifactId>centraldogma-server</artifactId>
+      <version>0.17.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.orientechnologies</groupId>
+      <artifactId>orientdb-server</artifactId>
+      <version>2.0.14</version>
+</dependency>
+    <dependency>
+      <groupId>com.sap.scimono</groupId>
+      <artifactId>scimono-server</artifactId>
+      <version>0.0.18</version>
+</dependency>
+    <dependency>
+      <groupId>com.twitter</groupId>
+      <artifactId>twitter-server</artifactId>
+      <version>20.11.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.vaadin</groupId>
+      <artifactId>flow-server</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-compatibility-server</artifactId>
+      <version>8.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.vaadin</groupId>
+      <artifactId>vaadin-server</artifactId>
+      <version>8.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.airsonic.player</groupId>
+      <artifactId>airsonic-main</artifactId>
+      <version>9.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.alluxio</groupId>
+      <artifactId>alluxio-logserver</artifactId>
+      <version>2.7.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.b3log</groupId>
+      <artifactId>symphony</artifactId>
+      <version>2.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.ballerinalang</groupId>
+      <artifactId>ballerina-cli-module</artifactId>
+      <version>1.2.13</version>
+</dependency>
+    <dependency>
+      <groupId>org.beanshell</groupId>
+      <artifactId>bsh</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.bedework</groupId>
+      <artifactId>bw-webdav</artifactId>
+      <version>4.0.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.bedework.caleng</groupId>
+      <artifactId>bw-calendar-engine-impl</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.biouno</groupId>
+      <artifactId>uno-choice</artifactId>
+      <version>1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.bitbucket.b_c</groupId>
+      <artifactId>jose4j</artifactId>
+      <version>0.5.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bc-fips</artifactId>
+      <version>1.0.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bc-fips-debug</artifactId>
+      <version>1.0.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-debug-jdk15on</artifactId>
+      <version>1.65</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-ext-jdk14</artifactId>
+      <version>1.47</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-ext-jdk15</artifactId>
+      <version>1.47</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-ext-jdk15on</artifactId>
+      <version>1.65</version>
+</dependency>
+    <dependency>
+      <groupId>org.cloudfoundry.identity</groupId>
+      <artifactId>cloudfoundry-identity-common</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.cloudfoundry.identity</groupId>
+      <artifactId>cloudfoundry-identity-login</artifactId>
+      <version>2</version>
+</dependency>
+    <dependency>
+      <groupId>org.cloudfoundry.identity</groupId>
+      <artifactId>cloudfoundry-identity-model</artifactId>
+      <version>3.20.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.cloudfoundry.identity</groupId>
+      <artifactId>cloudfoundry-identity-scim</artifactId>
+      <version>2.4.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.cloudfoundry.identity</groupId>
+      <artifactId>cloudfoundry-identity-server</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.datatransferproject</groupId>
+      <artifactId>portability-spi-cloud</artifactId>
+      <version>0.3.56</version>
 </dependency>
     
     
