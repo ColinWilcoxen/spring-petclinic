@@ -2427,6 +2427,257 @@
       <version>3.19.0</version>
 </dependency>
     
+    <dependency>
+      <groupId>com.dubture.jenkins</groupId>
+      <artifactId>digitalocean-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.elasticbox.jenkins-ci.plugins</groupId>
+      <artifactId>elasticbox</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.elasticbox.jenkins-ci.plugins</groupId>
+      <artifactId>kubernetes-ci</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.floragunn</groupId>
+      <artifactId>search-guard-kibana-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.codingandcoding</groupId>
+      <artifactId>mail-watcher-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.codingandcoding</groupId>
+      <artifactId>maven-compiler-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.googlecode.wicket-jquery-ui</groupId>
+      <artifactId>wicket-jquery-ui-plugins</artifactId>
+      <version>6.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.gradle.plugin-publish</groupId>
+      <artifactId>com.gradle.plugin-publish.gradle.plugin</artifactId>
+      <version>0.10.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.bstek.ureport</groupId>
+      <artifactId>ureport2-console</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.butor</groupId>
+      <artifactId>portal</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.epam.reportportal</groupId>
+      <artifactId>service-api</artifactId>
+      <version>3.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portal.remote.cors.impl</artifactId>
+      <version>2.0.3</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portal.scripting.groovy</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portal.security.ldap.impl</artifactId>
+      <version>2.0.15</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portal.settings.authentication.ldap.web</artifactId>
+      <version>4.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portal.store.s3</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portal.template.freemarker</artifactId>
+      <version>6.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portal.template.velocity</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portal.workflow.task.web</artifactId>
+      <version>4.0.15</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portal.workflow.web</artifactId>
+      <version>3.0.15</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portlet.configuration.css.web</artifactId>
+      <version>5.0.13</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.portlet.configuration.web</artifactId>
+      <version>4.0.12</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay.portal</groupId>
+      <artifactId>com.liferay.portal.impl</artifactId>
+      <version>2.14.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay.portal</groupId>
+      <artifactId>portal-impl</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay.portal</groupId>
+      <artifactId>portal-service</artifactId>
+      <version>6.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.opensaml</groupId>
+      <artifactId>opensaml</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.opensaml</groupId>
+      <artifactId>xmltooling</artifactId>
+      <version>1.4.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.pac4j</groupId>
+      <artifactId>pac4j-saml</artifactId>
+      <version>3.8.1</version>
+</dependency>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-access</artifactId>
+      <version>0.6</version>
+</dependency>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-classic</artifactId>
+      <version>0.3</version>
+</dependency>
+    <dependency>
+      <groupId>ch.qos.logback</groupId>
+      <artifactId>logback-core</artifactId>
+      <version>1.1.10</version>
+</dependency>
+    <dependency>
+      <groupId>com.catalogic.ecxjenkins</groupId>
+      <artifactId>catalogic-ecx</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.liferay</groupId>
+      <artifactId>com.liferay.login.web</artifactId>
+      <version>1.1.23</version>
+</dependency>
+    <dependency>
+      <groupId>com.orientechnologies</groupId>
+      <artifactId>orientdb-core</artifactId>
+      <version>2.1.10</version>
+</dependency>
+    <dependency>
+      <groupId>com.orientechnologies</groupId>
+      <artifactId>orientdb-server</artifactId>
+      <version>2.0.14</version>
+</dependency>
+    <dependency>
+      <groupId>com.orientechnologies</groupId>
+      <artifactId>orientdb-studio</artifactId>
+      <version>2.0.14</version>
+</dependency>
+    <dependency>
+      <groupId>com.zrlog</groupId>
+      <artifactId>zrlog</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>de.wellnerbou.jenkins</groupId>
+      <artifactId>git-changelog</artifactId>
+      <version>2.17</version>
+</dependency>
+    <dependency>
+      <groupId>eu.hinsch</groupId>
+      <artifactId>spring-boot-actuator-logview</artifactId>
+      <version>0.2.12</version>
+</dependency>
+    <dependency>
+      <groupId>org.alluxio</groupId>
+      <artifactId>alluxio-logserver</artifactId>
+      <version>2.7.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.hive.hcatalog</groupId>
+      <artifactId>hive-hcatalog-core</artifactId>
+      <version>2.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.hive.hcatalog</groupId>
+      <artifactId>hive-webhcat</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.box</groupId>
+      <artifactId>box-android-sdk</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.caverock</groupId>
+      <artifactId>androidsvg</artifactId>
+      <version>1.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.google.android.gms</groupId>
+      <artifactId>play-services-basement</artifactId>
+      <version>18.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.google.android.play</groupId>
+      <artifactId>core</artifactId>
+      <version>1.7.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.loopeer.android</groupId>
+      <artifactId>bootstrap</artifactId>
+      <version>3.3.0</version>
+</dependency>
+    <dependency>
+      <groupId>de.tud.sse</groupId>
+      <artifactId>soot-infoflow-android</artifactId>
+      <version>2.8.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>android-lint</artifactId>
+      <version>2.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.matrix.android:matrix-android-sdk2</groupId>
+      <artifactId>matrix-android-sdk2</artifactId>
+      <version>1.2.1</version>
+</dependency>
+    
     
   </dependencies>
 
