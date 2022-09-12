@@ -532,11 +532,6 @@
       <version>4.2.7</version>
 </dependency>
 
-<dependency>
-      <groupId>org.apache.kylin</groupId>
-      <artifactId>kylin-core-common</artifactId>
-      <version>2.3.0</version>
-</dependency>
 
 <dependency>
       <groupId>org.apache.kylin</groupId>
@@ -2179,6 +2174,257 @@
       <groupId>org.webjars.npm</groupId>
       <artifactId>react-native-webview</artifactId>
       <version>0</version>
+</dependency>
+    
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>react-svg</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>react-tooltip</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>react</artifactId>
+      <version>0.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>	org.webjars</groupId>
+      <artifactId>angular-jwt</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bower</groupId>
+      <artifactId>angular</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bower</groupId>
+      <artifactId>angular-jwt</artifactId>
+      <version>0.1.9</version>
+</dependency>
+    <dependency>
+      <groupId>edu.stanford.nlp</groupId>
+      <artifactId>stanford-corenlp</artifactId>
+      <version>4.3.0</version>
+</dependency>
+    <dependency>
+      <groupId>edu.vt.middleware</groupId>
+      <artifactId>vt-ldap</artifactId>
+      <version>3.3.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.neo4j.procedure</groupId>
+      <artifactId>apoc</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>	org.quartz-scheduler.internal</groupId>
+      <artifactId>quartz-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.quartz-scheduler</groupId>
+      <artifactId>quartz</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.coravy.hudson.plugins.github</groupId>
+      <artifactId>github</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.dubture.jenkins</groupId>
+      <artifactId>digitalocean-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.gitblit</groupId>
+      <artifactId>gitblit</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.binarywang</groupId>
+      <artifactId>weixin-java-common</artifactId>
+      <version>3.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.codingandcoding</groupId>
+      <artifactId>mail-watcher-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.codingandcoding</groupId>
+      <artifactId>maven-compiler-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.codingandcoding</groupId>
+      <artifactId>servlet-api</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>	com.github.dozermapper</groupId>
+      <artifactId>dozer-parent</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.fracpete</groupId>
+      <artifactId>vfsjfilechooser2</artifactId>
+      <version>0.2.8</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.goxr3plus</groupId>
+      <artifactId>xr3player</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.gwtmaterialdesign</groupId>
+      <artifactId>gwt-material</artifactId>
+      <version>2.4.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.jlangch</groupId>
+      <artifactId>venice</artifactId>
+      <version>1.10.16</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.jnr</groupId>
+      <artifactId>jnr-posix</artifactId>
+      <version>3.1.7</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.junrar</groupId>
+      <artifactId>junrar</artifactId>
+      <version>1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.kevinsawicki</groupId>
+      <artifactId>http-request</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.kfcfans</groupId>
+      <artifactId>powerjob</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.noraui</groupId>
+      <artifactId>noraui</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.pagehelper</groupId>
+      <artifactId>pagehelper</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.penggle</groupId>
+      <artifactId>kaptcha</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.github.shyiko</groupId>
+      <artifactId>ktlint</artifactId>
+      <version>0.29.0</version>
+</dependency>
+    <dependency>
+      <groupId>de.wellnerbou.jenkins</groupId>
+      <artifactId>git-changelog</artifactId>
+      <version>2.17</version>
+</dependency>
+    <dependency>
+      <groupId>io.github.javaezlib</groupId>
+      <artifactId>javaez</artifactId>
+      <version>1.6</version>
+</dependency>
+    <dependency>
+      <groupId>io.github.karlatemp</groupId>
+      <artifactId>unsafe-accessor</artifactId>
+      <version>1.4.0</version>
+</dependency>
+    <dependency>
+      <groupId>io.github.skylot</groupId>
+      <artifactId>jadx-core</artifactId>
+      <version>1.3.1</version>
+</dependency>
+    <dependency>
+      <groupId>io.github.talelin</groupId>
+      <artifactId>lin-cms-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.exadel.flamingo.flex</groupId>
+      <artifactId>amf-serializer</artifactId>
+      <version>1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>aendter.jenkins.plugins</groupId>
+      <artifactId>filesystem-list-parameter-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>cd.go.plugin</groupId>
+      <artifactId>go-plugin-api</artifactId>
+      <version>19.6.0</version>
+</dependency>
+    <dependency>
+      <groupId>cn.fxbin.bubble</groupId>
+      <artifactId>bubble-fireworks-plugin-token</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alauda.jenkins.plugins</groupId>
+      <artifactId>alauda-devops-pipeline</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba.oneagent</groupId>
+      <artifactId>one-java-agent-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.bmuschko</groupId>
+      <artifactId>gradle-vagrant-plugin</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.cloudcoreo.plugins</groupId>
+      <artifactId>cloudcoreo-deploytime</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.convertigo.jenkins.plugins</groupId>
+      <artifactId>convertigo-mobile-platform</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.coravy.hudson.plugins.github</groupId>
+      <artifactId>github</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.datapipe.jenkins.plugins</groupId>
+      <artifactId>hashicorp-vault-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.datatheorem.mobileappsecurity.jenkins.plugin</groupId>
+      <artifactId>datatheorem-mobile-app-security</artifactId>
+      <version>1.3.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.diffplug.spotless</groupId>
+      <artifactId>spotless-maven-plugin</artifactId>
+      <version>1.19.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.diffplug.spotless</groupId>
+      <artifactId>spotless-plugin-gradle</artifactId>
+      <version>3.19.0</version>
 </dependency>
     
     
