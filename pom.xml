@@ -3933,6 +3933,507 @@
       <version>2.3.1</version>
 </dependency>
     
+    <dependency>
+      <groupId>org.red5</groupId>
+      <artifactId>red5-server</artifactId>
+      <version>1.0.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.restlet.lib</groupId>
+      <artifactId>org.simpleframework.simple-xml</artifactId>
+      <version>2.7.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.restlet</groupId>
+      <artifactId>org.restlet</artifactId>
+      <version>2.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.restlet.osgi</groupId>
+      <artifactId>org.restlet</artifactId>
+      <version>2.1.6</version>
+</dependency>
+    <dependency>
+      <groupId>org.rhq</groupId>
+      <artifactId>rhq-enterprise-comm</artifactId>
+      <version>4</version>
+</dependency>
+    <dependency>
+      <groupId>org.richfaces.core</groupId>
+      <artifactId>richfaces-core-impl</artifactId>
+      <version>4.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.richfaces.framework</groupId>
+      <artifactId>richfaces-impl</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.richfaces.framework</groupId>
+      <artifactId>richfaces-impl-jsf2</artifactId>
+      <version>3.3.3.BETA1</version>
+</dependency>
+    <dependency>
+      <groupId>org.richfaces</groupId>
+      <artifactId>richfaces</artifactId>
+      <version>5.0.0.Alpha1</version>
+</dependency>
+    <dependency>
+      <groupId>org.richfaces</groupId>
+      <artifactId>richfaces-a4j</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.rundeck</groupId>
+      <artifactId>rundeck</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.rundeck</groupId>
+      <artifactId>rundeck-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.restlet.lib</groupId>
+      <artifactId>org.simpleframework.simple-xml</artifactId>
+      <version>2.7.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.sakaiproject</groupId>
+      <artifactId>chat-base</artifactId>
+      <version>12.6</version>
+</dependency>
+    <dependency>
+      <groupId>org.scala-js</groupId>
+      <artifactId>scalajs-library</artifactId>
+      <version>1.9.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.scala-lang</groupId>
+      <artifactId>scala-compiler</artifactId>
+      <version>2.10.6</version>
+</dependency>
+    <dependency>
+      <groupId>org.silverpeas.core</groupId>
+      <artifactId>silverpeas-core-web</artifactId>
+      <version>5.1.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.simpleframework</groupId>
+      <artifactId>simple-xml</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-ext</artifactId>
+      <version>1.7.25</version>
+</dependency>
+    <dependency>
+      <groupId>org.sonarsource.sonarqube</groupId>
+      <artifactId>sonar-plugin-api</artifactId>
+      <version>6.7.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.sonarsource.sonarqube</groupId>
+      <artifactId>sonar-web</artifactId>
+      <version>7.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.sonatype.nexus</groupId>
+      <artifactId>nexus-core</artifactId>
+      <version>2.4.0-1</version>
+</dependency>
+    <dependency>
+      <groupId>org.sonatype.nexus</groupId>
+      <artifactId>nexus-extdirect</artifactId>
+      <version>3.21.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.sonatype.nexus</groupId>
+      <artifactId>nexus-parent</artifactId>
+      <version>3.37.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.sonatype.nexus</groupId>
+      <artifactId>nexus-repository</artifactId>
+      <version>3.29.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.sonatype.nexus.plugins</groupId>
+      <artifactId>nexus-yum-repository-plugin</artifactId>
+      <version>2.11.0-01</version>
+</dependency>
+    <dependency>
+      <groupId>org.sonatype.nexus.xstream</groupId>
+      <artifactId>xstream</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework.amqp</groupId>
+      <artifactId>spring-amqp</artifactId>
+      <version>2.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework.batch</groupId>
+      <artifactId>spring-batch-admin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.tap4j</groupId>
+      <artifactId>tap</artifactId>
+      <version>1.24</version>
+</dependency>
+    <dependency>
+      <groupId>org.testng</groupId>
+      <artifactId>testng</artifactId>
+      <version>6.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.thymeleaf.extras</groupId>
+      <artifactId>thymeleaf-extras-springsecurity5</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.thymeleaf</groupId>
+      <artifactId>thymeleaf-spring5</artifactId>
+      <version>3.0.12</version>
+</dependency>
+    <dependency>
+      <groupId>org.togglz</groupId>
+      <artifactId>togglz-console</artifactId>
+      <version>2.9.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.torpedoquery</groupId>
+      <artifactId>org.torpedoquery</artifactId>
+      <version>2.5.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.traccar</groupId>
+      <artifactId>traccar</artifactId>
+      <version>4.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.typelevel</groupId>
+      <artifactId>jawn-parser_2.12</artifactId>
+      <version>1.3.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.typelevel</groupId>
+      <artifactId>jawn-parser_2.13</artifactId>
+      <version>1.3.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.typelevel</groupId>
+      <artifactId>jawn-parser_3</artifactId>
+      <version>1.3.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.uberfire</groupId>
+      <artifactId>uberfire-server</artifactId>
+      <version>0.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.ukiuni.callotherjenkins</groupId>
+      <artifactId>call-remote-job-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.w3c.css</groupId>
+      <artifactId>css-validator</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.web3j</groupId>
+      <artifactId>rlp</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>adm-zip</artifactId>
+      <version>0.5.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>angular-jwt</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>ansi-regex</artifactId>
+      <version>2.1.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>async</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>bootstrap</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>bootstrap-sass</artifactId>
+      <version>3.3.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>bootstrap-select</artifactId>
+      <version>1.13.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>bootstrap-switch</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>bootstrap-table</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>bootstrap-tagsinput</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>bootstrap-vue</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bower</groupId>
+      <artifactId>ag-grid</artifactId>
+      <version>3.3.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.xbib.groovy</groupId>
+      <artifactId>groovy-ldap</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.xmlbeam</groupId>
+      <artifactId>xmlprojector</artifactId>
+      <version>1.4.14</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.commons</groupId>
+      <artifactId>xwiki-commons</artifactId>
+      <version>12.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.commons</groupId>
+      <artifactId>xwiki-commons-velocity</artifactId>
+      <version>12.6.6</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.commons</groupId>
+      <artifactId>xwiki-commons-xml</artifactId>
+      <version>12.10.9</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.platform</groupId>
+      <artifactId>xwiki-platform-administration-ui</artifactId>
+      <version>13.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.platform</groupId>
+      <artifactId>xwiki-platform-attachment-ui</artifactId>
+      <version>14.0-rc-1</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.platform</groupId>
+      <artifactId>xwiki-platform-crypto-script</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.platform</groupId>
+      <artifactId>xwiki-platform-dashboard-macro</artifactId>
+      <version>12.10</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.platform</groupId>
+      <artifactId>xwiki-platform-flamingo-theme-ui</artifactId>
+      <version>12.10.10</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.platform</groupId>
+      <artifactId>xwiki-platform-index-ui</artifactId>
+      <version>13.10.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.platform</groupId>
+      <artifactId>xwiki-platform-mentions-ui</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.platform</groupId>
+      <artifactId>xwiki-platform-oldcore</artifactId>
+      <version>11.10.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.xwiki.platform</groupId>
+      <artifactId>xwiki-platform-ratings-api</artifactId>
+      <version>11.9</version>
+</dependency>
+    <dependency>
+      <groupId>org.yaml</groupId>
+      <artifactId>snakeyaml</artifactId>
+      <version>1.25</version>
+</dependency>
+    <dependency>
+      <groupId>org.zaproxy</groupId>
+      <artifactId>zap</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.zeroturnaround</groupId>
+      <artifactId>zt-zip</artifactId>
+      <version>1.12</version>
+</dependency>
+    <dependency>
+      <groupId>org.zkoss.common</groupId>
+      <artifactId>zweb</artifactId>
+      <version>5.0.12</version>
+</dependency>
+    <dependency>
+      <groupId>org.zkoss.zk</groupId>
+      <artifactId>zk</artifactId>
+      <version>9.6.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.acunetix</groupId>
+      <artifactId>acunetix</artifactId>
+      <version>1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.adobe.acs</groupId>
+      <artifactId>acs-aem-commons</artifactId>
+      <version>4.9.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.adobe.acs</groupId>
+      <artifactId>acs-aem-commons-ui.apps</artifactId>
+      <version>5.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.adobe.blazeds</groupId>
+      <artifactId>blazeds-common</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.adobe.blazeds</groupId>
+      <artifactId>blazeds-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.adobe.blazeds</groupId>
+      <artifactId>flex-messaging-common</artifactId>
+      <version>3.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.adobe.cq</groupId>
+      <artifactId>core.wcm.components.core</artifactId>
+      <version>2.20.7</version>
+</dependency>
+    <dependency>
+      <groupId>com.adobe.xmp</groupId>
+      <artifactId>xmpcore</artifactId>
+      <version>5.1.2</version>
+</dependency>
+    <dependency>
+      <groupId>com.alauda.jenkins.plugins</groupId>
+      <artifactId>alauda-devops-pipeline</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba.csp</groupId>
+      <artifactId>sentinel-dashboard</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>fastjson</artifactId>
+      <version>1.2.24</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba</groupId>
+      <artifactId>hessian-lite</artifactId>
+      <version>3.2.11</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba.nacos</groupId>
+      <artifactId>nacos-api</artifactId>
+      <version>1.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba.nacos</groupId>
+      <artifactId>nacos-common</artifactId>
+      <version>1.3.1</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba.nacos</groupId>
+      <artifactId>nacos-config</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba.nacos</groupId>
+      <artifactId>nacos-console</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba.oneagent</groupId>
+      <artifactId>one-java-agent-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alipay.sofa</groupId>
+      <artifactId>hessian</artifactId>
+      <version>4.0.2</version>
+</dependency>
+    <dependency>
+      <groupId>com.amazonaws</groupId>
+      <artifactId>aws-codebuild</artifactId>
+      <version>0.26</version>
+</dependency>
+    <dependency>
+      <groupId>com.amazonaws</groupId>
+      <artifactId>aws-dynamodb-encryption-java</artifactId>
+      <version>1.14.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.amazonaws</groupId>
+      <artifactId>aws-encryption-sdk-java</artifactId>
+      <version>1.8.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.baomidou</groupId>
+      <artifactId>mybatis-plus-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.beust</groupId>
+      <artifactId>jcommander</artifactId>
+      <version>1.74</version>
+</dependency>
+    <dependency>
+      <groupId>com.blackducksoftware.integration</groupId>
+      <artifactId>blackduck-detect</artifactId>
+      <version>1.3.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.blackducksoftware.integration</groupId>
+      <artifactId>blackduck-hub</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.bmuschko</groupId>
+      <artifactId>gradle-vagrant-plugin</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    
     
   </dependencies>
 
