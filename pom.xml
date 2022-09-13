@@ -3431,6 +3431,508 @@
       <version>7.1.0</version>
 </dependency>
     
+    <dependency>
+      <groupId>org.jboss.genericjms</groupId>
+      <artifactId>generic-jms-ra-jar</artifactId>
+      <version>2.0.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss</groupId>
+      <artifactId>jboss-ejb-client</artifactId>
+      <version>4.0.38</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.naming</groupId>
+      <artifactId>jnpserver</artifactId>
+      <version>5.0.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.native</groupId>
+      <artifactId>mod-cluster</artifactId>
+      <version>1</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.netty</groupId>
+      <artifactId>netty</artifactId>
+      <version>3.0.2.GA</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.remoting</groupId>
+      <artifactId>jboss-remoting</artifactId>
+      <version>5.0.19</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.resteasy</groupId>
+      <artifactId>resteasy-client</artifactId>
+      <version>4.5.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.resteasy</groupId>
+      <artifactId>resteasy-client-api</artifactId>
+      <version>4.5.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.resteasy</groupId>
+      <artifactId>resteasy-client-microprofile</artifactId>
+      <version>4.5.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.resteasy</groupId>
+      <artifactId>resteasy-core</artifactId>
+      <version>3.11.1.Final</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.resteasy</groupId>
+      <artifactId>resteasy-jackson2-provider</artifactId>
+      <version>3.0.19</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.resteasy</groupId>
+      <artifactId>resteasy-jackson-provider</artifactId>
+      <version>2.3.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.jboss.resteasy</groupId>
+      <artifactId>resteasy-jaxb-provider</artifactId>
+      <version>2.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.kairosdb</groupId>
+      <artifactId>kairosdb</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-authz-client</artifactId>
+      <version>7.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-client-registration-api</artifactId>
+      <version>12.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-common</artifactId>
+      <version>10.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-model-infinispan</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-model-jpa</artifactId>
+      <version>9.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-oidc-client-adapter-pom</artifactId>
+      <version>17.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-parent</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.keycloak</groupId>
+      <artifactId>keycloak-saml-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.ldaptive</groupId>
+      <artifactId>ldaptive</artifactId>
+      <version>1.0.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.lilicurroad.jenkins</groupId>
+      <artifactId>packageversion</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.liquibase</groupId>
+      <artifactId>liquibase-core</artifactId>
+      <version>4.7.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.lsp4xml</groupId>
+      <artifactId>lsp4xml-extensions</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.lsp4xml</groupId>
+      <artifactId>org.eclipse.lsp4xml.extensions.emmet</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.lsp4xml</groupId>
+      <artifactId>org.eclipse.lsp4xml.extensions.web</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.lucee</groupId>
+      <artifactId>lucee</artifactId>
+      <version>5.3.5.92</version>
+</dependency>
+    <dependency>
+      <groupId>org.mapfish.print</groupId>
+      <artifactId>print-lib</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mapfish.print</groupId>
+      <artifactId>print-servlet</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mapfish.print</groupId>
+      <artifactId>print-standalone</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.matrix.android</groupId>
+      <artifactId>matrix-android-sdk2</artifactId>
+      <version>1.2.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.membrane-soa</groupId>
+      <artifactId>service-proxy-core</artifactId>
+      <version>4.7.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.mindrot</groupId>
+      <artifactId>jbcrypt</artifactId>
+      <version>0.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.mitre</groupId>
+      <artifactId>openid-connect-common</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mitre</groupId>
+      <artifactId>openid-connect-server</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mitre</groupId>
+      <artifactId>openid-connect-server-webapp</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mock-server</groupId>
+      <artifactId>mockserver-core</artifactId>
+      <version>5.12.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mongodb</groupId>
+      <artifactId>mongodb-driver-sync</artifactId>
+      <version>4.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mortbay.jasper</groupId>
+      <artifactId>apache-el</artifactId>
+      <version>8.0.9.M0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mortbay.jetty</groupId>
+      <artifactId>jetty</artifactId>
+      <version>6.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mozilla</groupId>
+      <artifactId>rhino</artifactId>
+      <version>1.7.11</version>
+</dependency>
+    <dependency>
+      <groupId>org.mule.modules</groupId>
+      <artifactId>mule-module-apikit</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.mule.modules</groupId>
+      <artifactId>mule-module-xml</artifactId>
+      <version>3</version>
+</dependency>
+    <dependency>
+      <groupId>org.mule</groupId>
+      <artifactId>mule</artifactId>
+      <version>3</version>
+</dependency>
+    <dependency>
+      <groupId>org.nanohttpd</groupId>
+      <artifactId>nanohttpd</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.nanohttpd</groupId>
+      <artifactId>nanohttpd-nanolets</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.nd4j</groupId>
+      <artifactId>nd4j-common</artifactId>
+      <version>0</version>
+</dependency>
+    
+    <dependency>
+      <groupId>org.neo4j.app</groupId>
+      <artifactId>neo4j-server</artifactId>
+      <version>1.9.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.neo4j</groupId>
+      <artifactId>neo4j</artifactId>
+      <version>3.4.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.neo4j</groupId>
+      <artifactId>neo4j-cypher</artifactId>
+      <version>4.2.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.neo4j</groupId>
+      <artifactId>neo4j-security</artifactId>
+      <version>3.0.11</version>
+</dependency>
+    <dependency>
+      <groupId>org.neo4j</groupId>
+      <artifactId>neo4j-security-enterprise</artifactId>
+      <version>3.4.8</version>
+</dependency>
+    <dependency>
+      <groupId>org.neo4j.procedure</groupId>
+      <artifactId>apoc</artifactId>
+      <version>3.4.0.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.netbeans.html</groupId>
+      <artifactId>webkit</artifactId>
+      <version>1.7.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.odata4j</groupId>
+      <artifactId>odata4j-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.odpi.egeria</groupId>
+      <artifactId>egeria</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.ojalgo</groupId>
+      <artifactId>ojalgo</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onlab-stc</artifactId>
+      <version>1.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-app-fwd</artifactId>
+      <version>1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-app-ifwd</artifactId>
+      <version>1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-apps-acl</artifactId>
+      <version>1.13.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-cli</artifactId>
+      <version>1.13.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-core-common</artifactId>
+      <version>1.11.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-core-net</artifactId>
+      <version>1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-host-provider</artifactId>
+      <version>1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-lldp-provider</artifactId>
+      <version>1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-netconf-provider-alarm</artifactId>
+      <version>1.13.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-netconf-provider-device</artifactId>
+      <version>1.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-ovsdb</artifactId>
+      <version>1.13.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.opcfoundation.ua</groupId>
+      <artifactId>opc-ua-stack</artifactId>
+      <version>1.3.343</version>
+</dependency>
+    <dependency>
+      <groupId>org.openapitools</groupId>
+      <artifactId>openapi-generator-maven-plugin</artifactId>
+      <version>4.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.openapitools</groupId>
+      <artifactId>openapi-generator-online</artifactId>
+      <version>4.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.openapitools</groupId>
+      <artifactId>openapi-generator-project</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>base</artifactId>
+      <version>8.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-authorization-xacml</artifactId>
+      <version>9.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-caption-impl</artifactId>
+      <version>9.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-caption-remote</artifactId>
+      <version>9.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-common</artifactId>
+      <version>9.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-common-jpa-impl</artifactId>
+      <version>8.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-composer-service-api</artifactId>
+      <version>9.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-cover-image-impl</artifactId>
+      <version>9.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.opencastproject</groupId>
+      <artifactId>opencast-distribution-service-adaptive-streaming-wowza</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.pac4j</groupId>
+      <artifactId>pac4j-oidc</artifactId>
+      <version>5.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.pac4j</groupId>
+      <artifactId>pac4j-saml</artifactId>
+      <version>3.8.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketbox</groupId>
+      <artifactId>jbosssx</artifactId>
+      <version>4.0.18</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketbox</groupId>
+      <artifactId>jbosssx-bare</artifactId>
+      <version>4.0.18</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketbox</groupId>
+      <artifactId>picketbox</artifactId>
+      <version>4.0.18</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketlink</groupId>
+      <artifactId>picketlink-common</artifactId>
+      <version>2.5.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketlink</groupId>
+      <artifactId>picketlink-federation</artifactId>
+      <version>2</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketlink</groupId>
+      <artifactId>picketlink-jbas7-single</artifactId>
+      <version>2.6.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketlink</groupId>
+      <artifactId>picketlink-tomcat-common</artifactId>
+      <version>2.6.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.postgresql</groupId>
+      <artifactId>postgresql</artifactId>
+      <version>9.4.1208</version>
+</dependency>
+    <dependency>
+      <groupId>org.primefaces</groupId>
+      <artifactId>primefaces</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.projectforge</groupId>
+      <artifactId>projectforge-webapp</artifactId>
+      <version>5.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.python</groupId>
+      <artifactId>jython-standalone</artifactId>
+      <version>2.6.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.quartz-scheduler.internal</groupId>
+      <artifactId>quartz-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.quartz-scheduler</groupId>
+      <artifactId>quartz</artifactId>
+      <version>2.3.1</version>
+</dependency>
+    
     
   </dependencies>
 
