@@ -5937,6 +5937,257 @@
       <version>1.3.4</version>
 </dependency>
     
+    <dependency>
+      <groupId>io.springfox</groupId>
+      <artifactId>springfox-swagger2</artifactId>
+      <version>2.10.0</version>
+</dependency>
+    <dependency>
+      <groupId>io.springfox</groupId>
+      <artifactId>springfox-swagger-ui</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>io.swagger</groupId>
+      <artifactId>swagger-codegen</artifactId>
+      <version>2.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>io.swagger</groupId>
+      <artifactId>swagger-codegen-cli</artifactId>
+      <version>2.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>io.swagger</groupId>
+      <artifactId>swagger-codegen-project</artifactId>
+      <version>2.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>io.swagger</groupId>
+      <artifactId>swagger-generator</artifactId>
+      <version>2.4.18</version>
+</dependency>
+    <dependency>
+      <groupId>io.swagger</groupId>
+      <artifactId>swagger-parser</artifactId>
+      <version>1.0.30</version>
+</dependency>
+    <dependency>
+      <groupId>io.undertow</groupId>
+      <artifactId>undertow-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>io.undertow</groupId>
+      <artifactId>undertow-servlet</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>io.undertow</groupId>
+      <artifactId>undertow-websockets-jsr</artifactId>
+      <version>2.2.0.Final</version>
+</dependency>
+    <dependency>
+      <groupId>io.vertx</groupId>
+      <artifactId>vertx-core</artifactId>
+      <version>3.4.0</version>
+</dependency>
+    <dependency>
+      <groupId>io.vertx</groupId>
+      <artifactId>vertx-web</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>io.vertx</groupId>
+      <artifactId>vertx-web-api-contract</artifactId>
+      <version>3.5.3</version>
+</dependency>
+    <dependency>
+      <groupId>io.whitesource</groupId>
+      <artifactId>curekit</artifactId>
+      <version>1.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>net.arangamani.jenkins</groupId>
+      <artifactId>gem-publisher</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>net.bull.javamelody</groupId>
+      <artifactId>javamelody-core</artifactId>
+      <version>1.36.0</version>
+</dependency>
+    <dependency>
+      <groupId>net.fckeditor</groupId>
+      <artifactId>java-core</artifactId>
+      <version>2.4.1</version>
+</dependency>
+    <dependency>
+      <groupId>net.hurstfrost.jenkins</groupId>
+      <artifactId>avatar</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.main</groupId>
+      <artifactId>hudson-core</artifactId>
+      <version>3.3.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>analysis-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>android-lint</artifactId>
+      <version>2.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>bugzilla</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>ccm</artifactId>
+      <version>3.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>checkstyle</artifactId>
+      <version>3.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>distfork</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>dry</artifactId>
+      <version>2.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>favorite</artifactId>
+      <version>2.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins.findbugs</groupId>
+      <artifactId>parent</artifactId>
+      <version>4.71</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>ftppublisher</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>gcal</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>groovy-postbuild</artifactId>
+      <version>2.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>instant-messaging</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>ircbot</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>monitoring</artifactId>
+      <version>1.52</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>perforce</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>pmd</artifactId>
+      <version>1.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.jvnet.hudson.plugins</groupId>
+      <artifactId>sitemonitor</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>net.jpountz.lz4</groupId>
+      <artifactId>lz4</artifactId>
+      <version>1.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>net.liftweb</groupId>
+      <artifactId>lift-json_2.9.1</artifactId>
+      <version>2.5.0</version>
+</dependency>
+    <dependency>
+      <groupId>net.lingala.zip4j</groupId>
+      <artifactId>zip4j</artifactId>
+      <version>1.3.2</version>
+</dependency>
+    <dependency>
+      <groupId>net.mingsoft</groupId>
+      <artifactId>ms-mcms</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>net.minidev</groupId>
+      <artifactId>json-smart</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>net.opentsdb</groupId>
+      <artifactId>opentsdb</artifactId>
+      <version>2.2.1</version>
+</dependency>
+    <dependency>
+      <groupId>net.sf.mpxj</groupId>
+      <artifactId>mpxj</artifactId>
+      <version>4.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>net.sf.openas2</groupId>
+      <artifactId>openas2-server</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>net.sf.robocode</groupId>
+      <artifactId>robocode</artifactId>
+      <version>1.9.3.5</version>
+</dependency>
+    <dependency>
+      <groupId>net.sourceforge.htmlunit</groupId>
+      <artifactId>htmlunit</artifactId>
+      <version>2.36.0</version>
+</dependency>
+    <dependency>
+      <groupId>net.sourceforge.htmlunit</groupId>
+      <artifactId>neko-htmlunit</artifactId>
+      <version>2.26</version>
+</dependency>
+    <dependency>
+      <groupId>net.sourceforge.nekohtml</groupId>
+      <artifactId>nekohtml</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>net.sourceforge.pmd</groupId>
+      <artifactId>pmd-core</artifactId>
+      <version>5.0.0</version>
+</dependency>
+    
     
   </dependencies>
 
