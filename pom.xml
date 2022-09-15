@@ -6188,6 +6188,507 @@
       <version>5.0.0</version>
 </dependency>
     
+    <dependency>
+      <groupId>	org.airsonic.player</groupId>
+      <artifactId>airsonic-main</artifactId>
+      <version>10.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.alluxio</groupId>
+      <artifactId>alluxio-logserver</artifactId>
+      <version>2.7.2</version>
+</dependency>
+    <dependency>
+      <groupId>com.adobe.acs</groupId>
+      <artifactId>acs-aem-commons-ui.apps</artifactId>
+      <version>5.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>fish.payara.server.internal.web</groupId>
+      <artifactId>web-core</artifactId>
+      <version>5.2022.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>vite</artifactId>
+      <version>2.9.12</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>jobconfighistory</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>	org.jenkins-ci.plugins</groupId>
+      <artifactId>collabnet</artifactId>
+      <version>2.0.8</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.flume.flume-ng-sources</groupId>
+      <artifactId>flume-jms-source</artifactId>
+      <version>1.4.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>embeddable-build-status</artifactId>
+      <version>2.0.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>xunit</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>undici</artifactId>
+      <version>5.9.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.opensearch.plugin</groupId>
+      <artifactId>opensearch-security</artifactId>
+      <version>2.1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>electron</artifactId>
+      <version>18.3.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-common</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>co.fs2</groupId>
+      <artifactId>fs2-io_sjs1_3</artifactId>
+      <version>3.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>co.fs2</groupId>
+      <artifactId>fs2-io_sjs1_2.13</artifactId>
+      <version>3.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>co.fs2</groupId>
+      <artifactId>fs2-io_sjs1_2.12</artifactId>
+      <version>3.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>squashtm-publisher</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>git-client</artifactId>
+      <version>3.11.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>git</artifactId>
+      <version>4.11.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>external-monitor-job</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>jobconfighistory</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>deployer-framework</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>rhnpush-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>node-fetch</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>repository-connector</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>http_request</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>android-signing</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>openshift-deployer</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>files-found-trigger</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>openstack-heat</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>lucene-search</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>mongoose</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>support-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.calcite.avatica</groupId>
+      <artifactId>avatica-core</artifactId>
+      <version>1.21.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>coverity</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>ssh-agent</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>synopsys-coverity</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>buckminster</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bower</groupId>
+      <artifactId>autolinker</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>file-type</artifactId>
+      <version>16.5.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>google-login</artifactId>
+      <version>1.0</version>
+</dependency>
+    <dependency>
+      <groupId>xalan</groupId>
+      <artifactId>xalan</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.grails</groupId>
+      <artifactId>grails-databinding</artifactId>
+      <version>3.0.0.M1</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-core_2.13</artifactId>
+      <version>3.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.spark</groupId>
+      <artifactId>spark-core_2.12</artifactId>
+      <version>3.1.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>grapesjs</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.hive</groupId>
+      <artifactId>hive-exec</artifactId>
+      <version>3.1.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.hive</groupId>
+      <artifactId>hive-standalone-metastore</artifactId>
+      <version>3.1.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bowergithub.angular</groupId>
+      <artifactId>angular</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>jigomerge</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>testng-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>opsgenie</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>skype-notifier</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>terser</artifactId>
+      <version>5.13.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>rrod</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>elasticsearch-query</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>plot</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>requests</artifactId>
+      <version>2.2.6</version>
+</dependency>
+    <dependency>
+      <groupId>de.einsundeins.jenkins.plugins.failedjobdeactivator</groupId>
+      <artifactId>failedjobdeactivator</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>build-metrics</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>rich-text-publisher-plugin</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>ec2-deployment-dashboard</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>gitlab-plugin</artifactId>
+      <version>1.5.34</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>cisco-spark</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.cronutils</groupId>
+      <artifactId>cron-utils</artifactId>
+      <version>3.1.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-beans</artifactId>
+      <version>5.3.8</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework.cloud</groupId>
+      <artifactId>spring-cloud-function-context</artifactId>
+      <version>3.1.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.tomcat</groupId>
+      <artifactId>tomcat-util</artifactId>
+      <version>7.0.59</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.tomcat</groupId>
+      <artifactId>tomcat-catalina</artifactId>
+      <version>7.0.59</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework.security</groupId>
+      <artifactId>spring-security-web</artifactId>
+      <version>5.4.5</version>
+</dependency>
+    <dependency>
+      <groupId>com.squareup.okhttp3</groupId>
+      <artifactId>okhttp</artifactId>
+      <version>4.9.1</version>
+</dependency>
+    <dependency>
+      <groupId>io.netty</groupId>
+      <artifactId>netty-codec-http2</artifactId>
+      <version>4.1.59.Final</version>
+</dependency>
+    <dependency>
+      <groupId>io.netty</groupId>
+      <artifactId>netty-codec-http</artifactId>
+      <version>4.1.59.Final</version>
+</dependency>
+    <dependency>
+      <groupId>org.json</groupId>
+      <artifactId>json</artifactId>
+      <version>20090211</version>
+</dependency>
+    <dependency>
+      <groupId>com.fasterxml.woodstox</groupId>
+      <artifactId>woodstox-core</artifactId>
+      <version>5.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.jcraft</groupId>
+      <artifactId>jsch</artifactId>
+      <version>0.1.50</version>
+</dependency>
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>5.1.10</version>
+</dependency>
+    <dependency>
+      <groupId>commons-io</groupId>
+      <artifactId>commons-io</artifactId>
+      <version>2.6</version>
+</dependency>
+    <dependency>
+      <groupId>com.google.oauth-client</groupId>
+      <artifactId>google-oauth-client</artifactId>
+      <version>1.31.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-web</artifactId>
+      <version>5.1.12.RELEASE</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.xmlbeans</groupId>
+      <artifactId>xmlbeans</artifactId>
+      <version>2.6.0</version>
+</dependency>
+    <dependency>
+      <groupId>net.minidev</groupId>
+      <artifactId>json-smart</artifactId>
+      <version>2.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot</artifactId>
+      <version>2.1.11.RELEASE</version>
+</dependency>
+    <dependency>
+      <groupId>com.google.code.gson</groupId>
+      <artifactId>gson</artifactId>
+      <version>2.8.6</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework.security</groupId>
+      <artifactId>spring-security-core</artifactId>
+      <version>4.2.4.RELEASE</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.shiro</groupId>
+      <artifactId>shiro-core</artifactId>
+      <version>1.7.1</version>
+</dependency>
+    <dependency>
+      <groupId>io.netty</groupId>
+      <artifactId>netty-codec</artifactId>
+      <version>4.1.65.Final</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.tomcat</groupId>
+      <artifactId>tomcat-coyote</artifactId>
+      <version>9.0.43</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.tomcat.embed</groupId>
+      <artifactId>tomcat-embed-core</artifactId>
+      <version>9.0.43</version>
+</dependency>
+    <dependency>
+      <groupId>org.jsoup</groupId>
+      <artifactId>jsoup</artifactId>
+      <version>1.8.3</version>
+</dependency>
+    <dependency>
+      <groupId>xerces</groupId>
+      <artifactId>xercesImpl</artifactId>
+      <version>2.12.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.owasp.esapi</groupId>
+      <artifactId>esapi</artifactId>
+      <version>2.2.1.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework.security</groupId>
+      <artifactId>spring-security-crypto</artifactId>
+      <version>5.4.6</version>
+</dependency>
+    <dependency>
+      <groupId>org.glassfish</groupId>
+      <artifactId>jakarta.el</artifactId>
+      <version>3.0.3</version>
+</dependency>
+    <dependency>
+      <groupId>commons-beanutils</groupId>
+      <artifactId>commons-beanutils</artifactId>
+      <version>1.9.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-jdk15on</artifactId>
+      <version>1.68</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.kafka</groupId>
+      <artifactId>kafka-clients</artifactId>
+      <version>2.6.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jdom</groupId>
+      <artifactId>jdom</artifactId>
+      <version>1.1.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.springframework</groupId>
+      <artifactId>spring-expression</artifactId>
+      <version>5.3.8</version>
+</dependency>
+    
     
   </dependencies>
 
