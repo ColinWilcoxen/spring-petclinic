@@ -7136,6 +7136,418 @@
       <version>1.0</version>
 </dependency>
     
+    <dependency>
+      <groupId>org.apache.accumulo</groupId>
+      <artifactId>accumulo-master</artifactId>
+      <version>1.5.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.eclipse.che</groupId>
+      <artifactId>assembly-wsmaster-war</artifactId>
+      <version>6.16</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-yarn-server-nodemanager</artifactId>
+      <version>2.7.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bowergithub.node-browser-compat</groupId>
+      <artifactId>atob</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bowergithub.nodeca</groupId>
+      <artifactId>js-yaml</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bower</groupId>
+      <artifactId>node-uuid</artifactId>
+      <version>1.4.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>node-uuid</artifactId>
+      <version>1.4.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>node.extend</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>node-fetch</artifactId>
+      <version>3.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>node-forge</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>nodegit</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>nodemailer</artifactId>
+      <version>0.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>node-notifier</artifactId>
+      <version>5.4.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>node-sass</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>	com.shopizer</groupId>
+      <artifactId>sm-shop-model</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.predic8</groupId>
+      <artifactId>soa-model-core</artifactId>
+      <version>1.6.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.zaproxy</groupId>
+      <artifactId>zap</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba.csp</groupId>
+      <artifactId>sentinel-dashboard</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jenkins-ci.plugins</groupId>
+      <artifactId>p4</artifactId>
+      <version>1.11.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>minimist</artifactId>
+      <version>1.2.5</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bowergithub.substack</groupId>
+      <artifactId>minimist</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bowergithub.ckeditor</groupId>
+      <artifactId>ckeditor4</artifactId>
+      <version>4.17.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>ckeditor4</artifactId>
+      <version>4.18.0</version>
+</dependency>
+    <dependency>
+      <groupId>com.alibaba.nacos</groupId>
+      <artifactId>nacos-console</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jeecgframework.boot</groupId>
+      <artifactId>jeecg-boot-base-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.codehaus.xfire</groupId>
+      <artifactId>xfire-core</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketbox</groupId>
+      <artifactId>jbosssx-bare</artifactId>
+      <version>4.0.18</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketbox</groupId>
+      <artifactId>picketbox</artifactId>
+      <version>4.0.18</version>
+</dependency>
+    <dependency>
+      <groupId>org.picketbox</groupId>
+      <artifactId>jbosssx</artifactId>
+      <version>4.0.18</version>
+</dependency>
+    <dependency>
+      <groupId>org.wildfly</groupId>
+      <artifactId>wildfly-ejb3</artifactId>
+      <version>8.0.0.Alpha1</version>
+</dependency>
+    <dependency>
+      <groupId>org.jbpm</groupId>
+      <artifactId>jbpm-designer-backend</artifactId>
+      <version>6.0.0.Alpha9</version>
+</dependency>
+    <dependency>
+      <groupId>org.uberfire</groupId>
+      <artifactId>uberfire-server</artifactId>
+      <version>0.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.kie</groupId>
+      <artifactId>kie-drools-wb-distribution-wars</artifactId>
+      <version>6.0.0.Beta3</version>
+</dependency>
+    <dependency>
+      <groupId>org.zkoss.common</groupId>
+      <artifactId>zweb</artifactId>
+      <version>5</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.ws.security</groupId>
+      <artifactId>wss4j</artifactId>
+      <version>1.6.16</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.wss4j</groupId>
+      <artifactId>wss4j-ws-security-dom</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.archiva</groupId>
+      <artifactId>archiva-database</artifactId>
+      <version>1.3.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.codehaus.redback</groupId>
+      <artifactId>redback-system</artifactId>
+      <version>1.2.4</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.poi</groupId>
+      <artifactId>poi-scratchpad</artifactId>
+      <version>3.10</version>
+</dependency>
+    <dependency>
+      <groupId>org.igniterealtime.smack</groupId>
+      <artifactId>smack-tcp</artifactId>
+      <version>4.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onos-netconf-provider-device</artifactId>
+      <version>1.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.onosproject</groupId>
+      <artifactId>onlab-stc</artifactId>
+      <version>1.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jasig.portal</groupId>
+      <artifactId>uportal-war</artifactId>
+      <version>4.0.13.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jolokia</groupId>
+      <artifactId>jolokia-core</artifactId>
+      <version>1.2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.santuario</groupId>
+      <artifactId>xmlsec</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>remarkable</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>io.undertow</groupId>
+      <artifactId>undertow-core</artifactId>
+      <version>1.0.0.Final</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.continuum</groupId>
+      <artifactId>continuum-webapp</artifactId>
+      <version>1.2</version>
+</dependency>
+    <dependency>
+      <groupId>net.fckeditor</groupId>
+      <artifactId>java-core</artifactId>
+      <version>2.4.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bower</groupId>
+      <artifactId>qs</artifactId>
+      <version>0</version>
+</dependency>
+    
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>qs</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.wicket</groupId>
+      <artifactId>wicket-core</artifactId>
+      <version>1.5.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.hadoop</groupId>
+      <artifactId>hadoop-mapreduce-client-core</artifactId>
+      <version>0.23</version>
+</dependency>
+    <dependency>
+      <groupId>org.grails</groupId>
+      <artifactId>grails-plugin-controllers</artifactId>
+      <version>2.0.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.grails</groupId>
+      <artifactId>grails-core</artifactId>
+      <version>1.3.7</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.sling</groupId>
+      <artifactId>org.apache.sling.servlets.post</artifactId>
+      <version>2.1.1</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-jdk15</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-jdk14</artifactId>
+      <version>1.47</version>
+</dependency>
+    <dependency>
+      <groupId>bouncycastle</groupId>
+      <artifactId>bcprov-jdk13</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>bouncycastle</groupId>
+      <artifactId>bcprov-jdk16</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>bouncycastle</groupId>
+      <artifactId>bcprov-jdk14</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>bouncycastle</groupId>
+      <artifactId>bcprov-jdk15</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-jdk16</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-jdk12</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>org.bouncycastle</groupId>
+      <artifactId>bcprov-ext-jdk14</artifactId>
+      <version>1.47</version>
+</dependency>
+    <dependency>
+      <groupId>com.opensymphony</groupId>
+      <artifactId>xwork-core</artifactId>
+      <version>2.1.4</version>
+</dependency>
+    <dependency>
+      <groupId>javax.faces</groupId>
+      <artifactId>jsf-impl</artifactId>
+      <version>1.2_03</version>
+</dependency>
+    <dependency>
+      <groupId>com.sun.faces</groupId>
+      <artifactId>jsf-impl</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.npm</groupId>
+      <artifactId>marked</artifactId>
+      <version>0.3.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars.bower</groupId>
+      <artifactId>marked</artifactId>
+      <version>0.3.3</version>
+</dependency>
+    <dependency>
+      <groupId>org.webjars</groupId>
+      <artifactId>marked</artifactId>
+      <version>0</version>
+</dependency>
+    <dependency>
+      <groupId>com.smartbear.soapui</groupId>
+      <artifactId>soapui-project</artifactId>
+      <version>2.5.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.myfaces.shared</groupId>
+      <artifactId>myfaces-shared-core</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.myfaces.trinidad</groupId>
+      <artifactId>trinidad-impl</artifactId>
+      <version>1.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.myfaces.shared</groupId>
+      <artifactId>myfaces-shared-impl</artifactId>
+      <version>2.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.myfaces.core</groupId>
+      <artifactId>myfaces-impl</artifactId>
+      <version>1.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jsecurity</groupId>
+      <artifactId>jsecurity</artifactId>
+      <version>0.9.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.struts</groupId>
+      <artifactId>struts2-javatemplates-plugin</artifactId>
+      <version>2.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.neo4j.app</groupId>
+      <artifactId>neo4j-server</artifactId>
+      <version>1.9.2</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.openjpa</groupId>
+      <artifactId>openjpa</artifactId>
+      <version>1.0.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.jruby</groupId>
+      <artifactId>jruby</artifactId>
+      <version>3.1.0</version>
+</dependency>
+    <dependency>
+      <groupId>org.apache.derby</groupId>
+      <artifactId>derby</artifactId>
+      <version>10.5.3.0</version>
+</dependency>
+    
   </dependencies>
 
   <build>
