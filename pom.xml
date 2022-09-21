@@ -721,12 +721,6 @@
 </dependency>
 
 <dependency>
-      <groupId>org.apache.myfaces.shared</groupId>
-      <artifactId>myfaces-shared-core</artifactId>
-      <version>2.0.0</version>
-</dependency>
-
-<dependency>
       <groupId>org.apache.myfaces.trinidad</groupId>
       <artifactId>trinidad-impl</artifactId>
       <version>1.1.0</version>
@@ -7484,11 +7478,6 @@
       <groupId>com.smartbear.soapui</groupId>
       <artifactId>soapui-project</artifactId>
       <version>2.5.0</version>
-</dependency>
-    <dependency>
-      <groupId>org.apache.myfaces.shared</groupId>
-      <artifactId>myfaces-shared-core</artifactId>
-      <version>2.0.0</version>
 </dependency>
     <dependency>
       <groupId>org.apache.myfaces.trinidad</groupId>
